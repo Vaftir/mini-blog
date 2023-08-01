@@ -1,0 +1,30 @@
+.cratePost {
+  text-align: center;
+}
+
+.cratePost h2 {
+  font-size: 2.2em;
+}
+
+.cratePost p {
+  color: #aaa;
+  margin-bottom: 2em;
+}
+
+.imagecontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.previewTitle {
+  margin-bottom: 0.2em;
+  color: black;
+  font-weight: bold;
+}
+
+.imagePreview {
+  max-width: 100%;
+  margin-bottom: 1em;
+}

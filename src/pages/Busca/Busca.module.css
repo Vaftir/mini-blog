@@ -1,0 +1,18 @@
+.searchContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchContainer h1 {
+  margin-bottom: 1em;
+}
+
+.searchContainer p {
+  margin-bottom: 30px;
+}
+
+.searchContainer .empty {
+  text-align: center;
+}
