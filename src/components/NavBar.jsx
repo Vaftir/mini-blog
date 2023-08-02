@@ -20,7 +20,7 @@ const NavBar = () => {
       <ul className={styles.links_list}>
         <li>
           <NavLink
-            to="/"
+            to="/mini-blog"
             className={({ isActive }) => (isActive ? styles.active : "")}
           >
             Home
